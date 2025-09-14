@@ -17,9 +17,7 @@ function App() {
       <Header />
       <MainContent />
       <Footer />
-      <UserProfile name="Paula Jacqueline" age="27" bio="Loves music and photography" />
-      <UserProfile name="Bob" age="30" bio="Passionate about coding" />
-      <UserProfile name="Sarah" age="28" bio="Professional chef and food blogger" />
+      <UserProfile name="Alice" age="25" bio="Loves hiking and photography" />
 
 
       <div>
